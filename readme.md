@@ -18,5 +18,5 @@
 - Auto Loot
 - Auto Absorb
 - Auto Treasure
-- Kill Aura (Only work in Domain, Tower, enemies near water, Realm)
+- Kill Aura
 - Mob Vacuum (Still buggy)
