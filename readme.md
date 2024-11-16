@@ -1,4 +1,4 @@
-# MAUNG MOD RELEASE 1.2
+# MAUNG MOD RELEASE 1.4
 ![zzzz](https://raw.githubusercontent.com/saefulbarkah/MAUNG-MOD/main/menu.png)
 
 ## Features
