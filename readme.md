@@ -14,6 +14,14 @@
 - If you use `Skip Cutscene` when talking on NPC and missing UI just press `ALT + X`
 
 ## Features
+
+### HOW TO
+- Open mod Menu (Alt + X)
+- Open custom menu (Home) 
+- Auto Puzzle (F9)
+- Auto kill Animal (F8)
+- Custom teleport (Insert) 
+
 #### Player
 - God Mode
 - No Cooldown Skill (Include Inf forte, Energy, auto QTE)
