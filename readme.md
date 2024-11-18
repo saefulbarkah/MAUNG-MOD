@@ -9,6 +9,10 @@
 - For additional menu press `Home` on the keyboard
 - Enjoy!
 
+## Known issues
+- Dont use skip cutscene on Depths of Illusive
+- If you use skip cutscene when talking on NPC and missing UI just press `ALT + X`
+
 ## Features
 #### Player
 - God Mode
@@ -22,9 +26,9 @@
 
 #### World
 - World Speed
-- Skip Cutscene
+- Skip Cutscene (Sometimes cause bug pls read section `Known issues` before using it)
 - Auto Loot
 - Auto Absorb
 - Auto Treasure
 - Kill Aura
-- Mob Vacuum (Still buggy)
+- Mob Vacuum (NOT WORKING)
