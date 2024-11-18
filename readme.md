@@ -2,7 +2,7 @@
 ![zzzz](https://raw.githubusercontent.com/saefulbarkah/MAUNG-MOD/main/menu.png)
 
 ## First Step
-- Go to [Releases](https://github.com/saefulbarkah/MAUNG-MOD/releases) And download it
+- Go to [Releases]([https://github.com/saefulbarkah/MAUNG-MOD/releases](https://github.com/saefulbarkah/MAUNG-MOD/releases/download/1.4/ww-mod-1.4.rar)) And download it
 - Extract and run `launch.exe`
 - Select `Wuthering Waves` folder
 - While in login menu showing `MAUNG MOD LOADED` you can open menu with `ALT + X`
