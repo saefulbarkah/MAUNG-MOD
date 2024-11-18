@@ -1,6 +1,14 @@
 # MAUNG MOD RELEASE 1.4
 ![zzzz](https://raw.githubusercontent.com/saefulbarkah/MAUNG-MOD/main/menu.png)
 
+## First Step
+- Go to [Releases](https://github.com/saefulbarkah/MAUNG-MOD/releases) And download it
+- Extract and run `launch.exe`
+- Select `Wuthering Waves` folder
+- While in login menu showing `MAUNG MOD LOADED` you can open menu with `ALT + X`
+- For additional menu press `Home` on the keyboard
+- Enjoy!
+
 ## Features
 #### Player
 - God Mode
