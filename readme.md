@@ -10,8 +10,8 @@
 - Enjoy!
 
 ## Known issues
-- Dont use skip cutscene on Depths of Illusive
-- If you use skip cutscene when talking on NPC and missing UI just press `ALT + X`
+- Dont use `Skip Cutscene` on Depths of Illusive
+- If you use `Skip Cutscene` when talking on NPC and missing UI just press `ALT + X`
 
 ## Features
 #### Player
