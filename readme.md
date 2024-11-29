@@ -39,4 +39,5 @@
 - Auto Absorb
 - Auto Treasure
 - Kill Aura
+   - instant kill enemy in Illusive Realm
 - Mob Vacuum (NOT WORKING)
