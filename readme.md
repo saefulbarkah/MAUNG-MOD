@@ -10,7 +10,8 @@
 - Enjoy!
 
 ## Known issues
-- Dont use `Skip Cutscene` on Depths of Illusive
+- Dont use `Kill Aura` for first time in `Depths of Illusive Realm`, you need to complete a quest first before use kill Aura.
+- Dont use `Skip Cutscene` in Depths of Illusive
 - If you use `Skip Cutscene` when talking on NPC and missing UI just press `ALT + X`
 
 ## Features
