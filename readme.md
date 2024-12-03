@@ -6,7 +6,6 @@
 - Extract and run `launch.exe`
 - Select `Wuthering Waves` folder
 - While in login menu showing `MAUNG MOD LOADED` you can open menu with `ALT + X`
-- For additional menu press `Home` on the keyboard
 - Enjoy!
 
 ## Known issues
