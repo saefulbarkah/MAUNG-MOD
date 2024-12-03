@@ -21,11 +21,7 @@
 ## Features
 
 ### HOW TO
-- Open mod Menu (Alt + X)
-- Open custom menu (Home) 
-- Auto Puzzle (F9)
-- Auto kill Animal (F8)
-- Custom teleport (Insert) 
+- Open mod Menu (Alt + X) 
 
 #### Player
 - God Mode
@@ -43,6 +39,12 @@
 - Auto Loot
 - Auto Absorb
 - Auto Treasure
+- Auto Puzzle
+- Auto kill Animal
 - Kill Aura
    - instant kill enemy in Illusive Realm
 - Mob Vacuum (NOT WORKING)
+
+#### Teleport
+- Custom Teleport
+- Auto teleport
