@@ -34,7 +34,7 @@
 
 #### World
 - World Speed
-- Skip Cutscene (Sometimes cause bug pls read section `Known issues` before using it)
+- Skip Cutscene
 - Auto Loot
 - Auto Absorb
 - Auto Treasure
