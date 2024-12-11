@@ -44,6 +44,12 @@
    - instant kill enemy in Illusive Realm
 - Mob Vacuum (NOT WORKING)
 
+#### Buff
+- 9999% Atk
+- 50% Echo Drop
+- 50% Gold
+- 50% Mats
+
 #### Teleport
 - Custom Teleport
 - Auto teleport
